@@ -1,0 +1,2 @@
+snet.sdk
+snet-cli
